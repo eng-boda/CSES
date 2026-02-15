@@ -13,7 +13,7 @@ I aim to solve **2 problems per day** following a 6-month master plan.
 | Section | Status | Solved | Total |
 | :--- | :---: | :---: | :---: |
 | Introductory Problems | 🟡 | 2 | 35 |
-| Sorting and Searching | 🟡 | 1 | 35 |
+| Sorting and Searching | 🟡 | 2 | 35 |
 | Graph Algorithms | 🟡 | 1 | 36 |
 
 ---
