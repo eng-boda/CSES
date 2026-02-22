@@ -12,7 +12,7 @@ I aim to solve **2 problems per day** following a 6-month master plan.
 
 | Section | Status | Solved | Total |
 | :--- | :---: | :---: | :---: |
-| Introductory Problems | 🟡 | 5 | 35 |
+| Introductory Problems | 🟡 | 6 | 35 |
 | Sorting and Searching | 🟡 | 5 | 35 |
 | Dynamic Programming | 🟡 | 2 | 23 |
 | Graph Algorithms | 🟡 | 6 | 36 |
