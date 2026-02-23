@@ -2,7 +2,7 @@
   Problem Name: Movie Festival
   Problem Link: cses.fi/problemset/task/1629/
   Author: EngBoda
-  Time Complexity: O(n)
+  Time Complexity: O(n log n)
 */
 #include <bits/stdc++.h>
 using namespace std;
